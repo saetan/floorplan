@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/floorplan/static/css/main.696f806e.chunk.css",
+    "main.js": "/floorplan/static/js/main.f9a508e0.chunk.js",
+    "main.js.map": "/floorplan/static/js/main.f9a508e0.chunk.js.map",
+    "runtime-main.js": "/floorplan/static/js/runtime-main.97e23a18.js",
+    "runtime-main.js.map": "/floorplan/static/js/runtime-main.97e23a18.js.map",
+    "static/js/2.05709fc9.chunk.js": "/floorplan/static/js/2.05709fc9.chunk.js",
+    "static/js/2.05709fc9.chunk.js.map": "/floorplan/static/js/2.05709fc9.chunk.js.map",
+    "static/js/3.011a1284.chunk.js": "/floorplan/static/js/3.011a1284.chunk.js",
+    "static/js/3.011a1284.chunk.js.map": "/floorplan/static/js/3.011a1284.chunk.js.map",
+    "index.html": "/floorplan/index.html",
+    "static/css/main.696f806e.chunk.css.map": "/floorplan/static/css/main.696f806e.chunk.css.map",
+    "static/js/2.05709fc9.chunk.js.LICENSE.txt": "/floorplan/static/js/2.05709fc9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/floorplan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e23a18.js",
+    "static/js/2.05709fc9.chunk.js",
+    "static/css/main.696f806e.chunk.css",
+    "static/js/main.f9a508e0.chunk.js"
+  ]
+}
